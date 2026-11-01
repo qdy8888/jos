@@ -1,0 +1,53 @@
+{
+  "kind": "logical simulation, not measured production memory",
+  "results": [
+    {
+      "devices": 10,
+      "completed": 10,
+      "peak_running": 4,
+      "max_queued": 10,
+      "modeled_min_free_MiB": 4096,
+      "pressure_ticks": 6,
+      "verified_exit_retries": 1,
+      "injected_pressure_free_MiB": 256,
+      "dispatcher_restart": true,
+      "ticks": 43
+    },
+    {
+      "devices": 30,
+      "completed": 30,
+      "peak_running": 4,
+      "max_queued": 30,
+      "modeled_min_free_MiB": 4096,
+      "pressure_ticks": 6,
+      "verified_exit_retries": 1,
+      "injected_pressure_free_MiB": 256,
+      "dispatcher_restart": true,
+      "ticks": 93
+    },
+    {
+      "devices": 50,
+      "completed": 50,
+      "peak_running": 4,
+      "max_queued": 50,
+      "modeled_min_free_MiB": 4096,
+      "pressure_ticks": 6,
+      "verified_exit_retries": 1,
+      "injected_pressure_free_MiB": 256,
+      "dispatcher_restart": true,
+      "ticks": 143
+    },
+    {
+      "devices": 100,
+      "completed": 100,
+      "peak_running": 4,
+      "max_queued": 100,
+      "modeled_min_free_MiB": 4096,
+      "pressure_ticks": 6,
+      "verified_exit_retries": 1,
+      "injected_pressure_free_MiB": 256,
+      "dispatcher_restart": true,
+      "ticks": 265
+    }
+  ]
+}

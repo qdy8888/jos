@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.db
+*.db-*
+*.dispatcher.lock
+resource-report.json
